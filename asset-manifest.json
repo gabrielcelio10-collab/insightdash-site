@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/insightdash-site/static/css/main.84fa4e8d.css",
+    "main.js": "/insightdash-site/static/js/main.48702f4a.js",
+    "static/js/453.671bb85d.chunk.js": "/insightdash-site/static/js/453.671bb85d.chunk.js",
+    "index.html": "/insightdash-site/index.html",
+    "main.84fa4e8d.css.map": "/insightdash-site/static/css/main.84fa4e8d.css.map",
+    "main.48702f4a.js.map": "/insightdash-site/static/js/main.48702f4a.js.map",
+    "453.671bb85d.chunk.js.map": "/insightdash-site/static/js/453.671bb85d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84fa4e8d.css",
+    "static/js/main.48702f4a.js"
+  ]
+}
