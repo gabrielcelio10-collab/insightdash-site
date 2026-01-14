@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/insightdash-site/static/css/main.79e9900d.css",
-    "main.js": "/insightdash-site/static/js/main.ba843dca.js",
+    "main.css": "/insightdash-site/static/css/main.7992c3a9.css",
+    "main.js": "/insightdash-site/static/js/main.70311bc2.js",
     "static/js/453.671bb85d.chunk.js": "/insightdash-site/static/js/453.671bb85d.chunk.js",
     "index.html": "/insightdash-site/index.html",
-    "main.79e9900d.css.map": "/insightdash-site/static/css/main.79e9900d.css.map",
-    "main.ba843dca.js.map": "/insightdash-site/static/js/main.ba843dca.js.map",
+    "main.7992c3a9.css.map": "/insightdash-site/static/css/main.7992c3a9.css.map",
+    "main.70311bc2.js.map": "/insightdash-site/static/js/main.70311bc2.js.map",
     "453.671bb85d.chunk.js.map": "/insightdash-site/static/js/453.671bb85d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.79e9900d.css",
-    "static/js/main.ba843dca.js"
+    "static/css/main.7992c3a9.css",
+    "static/js/main.70311bc2.js"
   ]
 }
